@@ -7,27 +7,31 @@ export const Header = () => {
         <h3>DK design studio</h3>
         <ul className="nav nav-pills">
           <li className="nav-item">
-            <a href="#" className="nav-link active" aria-current="page">
+            <a
+              href="#"
+              className="nav-link active  text-light"
+              aria-current="page"
+            >
               Home
             </a>
           </li>
           <li className="nav-item">
-            <a href="#" className="nav-link">
+            <a href="#" className="nav-link  text-light">
               Features
             </a>
           </li>
           <li className="nav-item">
-            <a href="#" className="nav-link">
+            <a href="#" className="nav-link  text-light">
               Pricing
             </a>
           </li>
           <li className="nav-item">
-            <a href="#" className="nav-link">
+            <a href="#" className="nav-link  text-light">
               FAQs
             </a>
           </li>
           <li className="nav-item">
-            <a href="#" className="nav-link">
+            <a href="#" className="nav-link  text-light">
               About
             </a>
           </li>
