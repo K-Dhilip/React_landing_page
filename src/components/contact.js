@@ -40,12 +40,8 @@ export const Contact = () => {
               </label>
             </div>
             <button className="w-100 btn btn-lg btn-primary" type="submit">
-              Sign up
+              Send Message
             </button>
-            <hr className="my-4" />
-            <small className="text-muted">
-              By clicking Sign up, you agree to the terms of use.
-            </small>
           </form>
         </div>
       </div>

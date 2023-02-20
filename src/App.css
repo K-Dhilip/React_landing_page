@@ -7,3 +7,7 @@ body {
 .container {
   background: #ffffff;
 }
+
+li {
+  font-size: 20px;
+}
